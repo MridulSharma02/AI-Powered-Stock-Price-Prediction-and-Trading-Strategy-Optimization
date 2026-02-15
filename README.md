@@ -1,0 +1,2 @@
+# AI-Powered-Stock-Price-Prediction-and-Trading-Strategy-Optimization
+This project presents an innovative solution that harnesses the power of Long Short-Term Memory (LSTM) neural networks—a specialized type of  RNN—to predict stock market prices with superior accuracy. LSTM networks excel at learning long-term dependencies in sequential data, making them ideal for time series forecasting applications.
